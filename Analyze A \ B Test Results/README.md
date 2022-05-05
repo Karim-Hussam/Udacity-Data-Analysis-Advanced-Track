@@ -30,8 +30,6 @@ This project was completed as part of the course requirements of <a href=https:/
 ## Files
 >Analyze_ab_test_results_notebook.ipynb: Code for A/B Testing and Analyzing this A/B Test Results.
 >
->Analyze_ab_test_results_notebook.html: The html copy of the project.
->
 >ab_data.csv: The orgignal dataset provided by Udacity , upon which A/B testing will be conducted.
 >
 >countries.csv: The additional dataset provided by Udacity.
